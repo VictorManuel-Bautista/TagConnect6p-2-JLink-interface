@@ -1,0 +1,8 @@
+### Footprint positions - created on 2026-06-01T12:00:22 ###
+### Printed by KiCad version 10.0.2
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                           Package                                  PosX       PosY       Rot  Side
+J1        Conn_ARM_JTAG_SWD_20          IDC-Header_2x10_P2.54mm_Horizontal   154.5275   -93.9700    0.0000  top
+J2        Conn_02x03_Counter_Clockwise  IDC-Header_2x03_P2.54mm_Vertical     143.6350  -103.0100    0.0000  top
+## End
